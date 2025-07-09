@@ -1,0 +1,2 @@
+symbol,orderId,status,side,type,quantity,price,timestamp
+BTCUSDT,813100,FILLED,SELL,MARKET,1.0,market price,1752042693323

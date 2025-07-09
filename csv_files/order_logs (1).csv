@@ -1,0 +1,2 @@
+symbol,orderId,status,side,type,quantity,price,stopPrice,timeInForce,timestamp
+BTCUSDT,334223,TRIGGERED,SELL,STOP,1.0,59800.0,60000.0,GTC,1752044224403

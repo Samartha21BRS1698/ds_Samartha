@@ -12,7 +12,7 @@ This project simulates a Binance Futures Trading Bot for PrimeTrade.ai using a M
 - Place MARKET, LIMIT, and STOP-LIMIT orders
 - Support for BUY and SELL sides
 - Command-line interaction via Colab
-- Logs orders to CSV (`csv_files/order_logs.csv`)
+- Logs orders to CSV 
 - Written in Python using OOP
 - Fully modular and ready to swap with real Binance API
 

@@ -1,4 +1,4 @@
-# ds_Samartha
+## ds_Samartha
 My python developer task for Primetrade.ai - Binance Simplified Trading Bot.
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
@@ -47,7 +47,7 @@ with open("README.md", "w") as f:
     f.write(readme_text)
 print("README.md generated.")
 
-# Colab link: 
+## Colab link: 
 https://colab.research.google.com/drive/12rqLGHMAZRwUd8sHaB4hj58zG2I9O3ix?usp=sharing
 
 ## Author
@@ -57,5 +57,5 @@ B.Tech student
 🎓 AI/ML • Data Science •  NLP • Google Cloud 
 🔗 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
 
-# 📝 License
+## 📝 License
  MIT License © 2025 Samartha
